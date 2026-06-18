@@ -1,9 +1,9 @@
 print("===== User Registration =====")
 
-name = input("bharath ")
-email = input("bharath@gmail.com ")
-phone = input("9999999999 ")
-password = input("bharath678 ")
+name = input("Enter Name: ")
+email = input("Enter Email: ")
+phone = input("Enter Phone Number: ")
+password = input("Enter Password: ")
 
 print("\n===== Registration Successful =====")
 print("Name:", name)
